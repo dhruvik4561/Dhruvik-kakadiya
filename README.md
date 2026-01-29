@@ -61,20 +61,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvik4561&repo=smart-agriculture-system&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvik4561&repo=real-estate-platform&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvik4561&repo=customer-order-panel&theme=tokyonight" />
-
-</div>
-
----
-
 ## 🧩 Project Highlights
 
 ### 🌾 Smart Agriculture Management System
@@ -112,16 +98,6 @@
   - Om Softwares
 - 🚀 Built multiple **production-ready full-stack projects**
 - 🏆 Participated in **hackathons, workshops & tech events**
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvik4561&show_icons=true&theme=tokyonight&count_private=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvik4561&layout=compact&theme=tokyonight" />
-</div>
 
 ---
 
